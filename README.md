@@ -2,4 +2,4 @@
 Bayesian Inference for Michaelis-Menten Enzyme Kinetics
 
 ## How to use?
-Go for 
+Go for mm_ssa.py.
